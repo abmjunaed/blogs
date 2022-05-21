@@ -1,5 +1,5 @@
 
-# Junaed’s Framework: “How to do well in a Job Interview.”
+"How to do well in a Job Interview": Junaed's Powerful Framework
 
 From the course:
 
