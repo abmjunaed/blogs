@@ -42,15 +42,23 @@ Next point is Discuss. You have to discuss a lot of things during the interview.
 **I had a very wrong concept regarding the interview.** I thought that the interviewer would ask me questions like, "Can you do that? Can you do this?" A lot of things. And he will try to find out my skillset. He will try to find out what I'm good at and bad at. 
 
 **But in the interview, it is my job to convince the interviewer that I'm a perfect match for this job**. So I will show him that I have a lot of knowledge. I will show him that I have a lot of experience, proving that I'm the person they're looking for. I can deliver the job. 
-**
-I'll show my depth of knowledge and my breadth of knowledge. I'll show my depth of knowledge. **
 
-It is very important to show that I have a lot of knowledge or in-depth knowledge in some areas and a lot of things. I don't have a lot of knowledge, but I know, at least, those things exist on a surface level. This discussion is also very important because I will have conversations with my colleagues in real life. I will not jump into a problem directly. 
+**I'll show my depth of knowledge and my breadth of knowledge. **
+
+#### Depth of knowledge
+It is very important to show that I have deep knowledge in some areas related to this job. 
+
+#### Breadth of knowledge
+It is not possible to have in deplth knowledge in every area, but I have to show that I know a lot of things at least on the surface level. 
+
+
+This discussion is also very important because I will have conversations with my colleagues in real life. I will not jump into a problem directly. 
 So this discussion shows that I will be a good team player, I will be a good colleague as well, and I can also think clearly. 
 
+### To find out which skill are important for this job
 Another aspect is before you go into an interview, you read the job description, and it mentions so many things. And If you want to highlight everything in a job interview, then it's not possible in a one-hour interview, right? So you have to focus on the key points and the most important things for this position. It's tough to guess, right? 
 
-For example, if you are a software engineer and read the job description, many things are mentioned there. But when When you go into an interview and start discussing with them, you may find that their need is to have a senior member who can mentor other colleagues can guide the team. So, in that case, you will start focusing on the qualities that you can guide a team and mentor the team. Or if you find that the software has a lot of bugs and they want to stabilize the software's codebase. That means they want someone who can refactor the code, do a lot of debugging, go very deep, and write clean code. In that case, you will focus on those areas. In the interview, you will discuss with the interviewer, and you will try to find out what's their most pressing problem, then you can focus on that you know those things. Another thing is you should drive the discussion toward your strength point because if the discussion or the questions goes in one direction where you don't have that much expertise, you will look kind of... I don't know, you will not look so good in the interview, right? So you should drive the discussion in the direction where you have much more strength. 
+For example, if you are a software engineer and read the job description, many things are mentioned there. But When you go into an interview and start discussing with them, you may find that their need is to have a senior member who can mentor other colleagues can guide the team. So, in that case, you will start focusing on the qualities that you can guide a team and mentor the team. Or if you find that the software has a lot of bugs and they want to stabilize the software's codebase. That means they want someone who can refactor the code, do a lot of debugging, go very deep, and write clean code. In that case, you will focus on those areas. In the interview, you will discuss with the interviewer, and you will try to find out what's their most pressing problem, then you can focus on that you know those things. Another thing is you should drive the discussion toward your strength point because if the discussion or the questions goes in one direction where you don't have that much expertise, you will look kind of... I don't know, you will not look so good in the interview, right? So you should drive the discussion in the direction where you have much more strength. 
 
 **In my course, I will show you how to drive the discussion.** I'll give you some tips so that you can drive the discussion towards your strength and how to discuss and find out what are the most important things for this position. You should also try to learn about the company. Learn about the team because, in the end, if you get a job offer, you will decide whether you will join this company or not. You should try to collect as much information as possible about them as well. 
 
