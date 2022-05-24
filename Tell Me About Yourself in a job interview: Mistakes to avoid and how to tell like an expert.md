@@ -1,8 +1,13 @@
 # Tell Me About Yourself in a job interview: Mistakes to avoid and how to tell like an expert!
- Remember that the interview is your self-marketing. You have to convince the interviewer that you are the perfect match for this position; you can deliver what these jobs need. 
+ **Remember that the interview is your self-marketing. You have to convince the interviewer that you are the perfect match for this position; you can deliver what these jobs need.**
+ 
+ <img width="960" alt="9 tell me about urself" src="https://user-images.githubusercontent.com/7772278/170095400-814f0f79-1b03-48ad-a876-73438f5c8a74.PNG">
+
+<img width="960" alt="9-2tell me about urself" src="https://user-images.githubusercontent.com/7772278/170095465-9d8363a1-a409-4269-b3fe-97fa1d032e32.PNG">
 
 ## What you should cover during the tell about yourself part
 When you go to an interview, the interviewer will first ask you, "Please tell me about yourself, or, "please introduce yourself."
+
 
 ## Mistakes to avoid:
 
