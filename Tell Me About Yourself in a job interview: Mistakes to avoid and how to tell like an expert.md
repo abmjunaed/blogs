@@ -1,4 +1,10 @@
 # Tell Me About Yourself in a job interview: Mistakes to avoid and how to tell like an expert!
+
+From the course:
+
+**[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
+
+
  **Remember that the interview is your self-marketing. You have to convince the interviewer that you are the perfect match for this position; you can deliver what these jobs need.**
  
  <img width="960" alt="9 tell me about urself" src="https://user-images.githubusercontent.com/7772278/170095400-814f0f79-1b03-48ad-a876-73438f5c8a74.PNG">
@@ -41,3 +47,11 @@ No worries.
 - I will also show my exact example regarding how I tell about myself in a job interview.
 
 **_Note:_** The above tips does not apply if you are being interviewed for a part where telling about yourself will not have a significant impact; don't follow this guideline. For example, if you are a software engineer and doing a coding test or some leadership test, this tell me about yourself does not have a very big impact on that part. In that case, keep it as short as possible to save time for coding tests or following leadership tests. 
+
+-----------
+If you enjoyed this blog, then you will also like my course. 
+
+Here is the link with a **coupon code**
+
+**Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework**
+https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139
