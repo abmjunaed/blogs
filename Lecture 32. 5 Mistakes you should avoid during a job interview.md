@@ -3,6 +3,7 @@ From the course:
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
 Today, we will see 5 mistakes that we make during an interview, and we should avoid these mistakes. 
+<img width="847" alt="32 5 mistakes" src="https://user-images.githubusercontent.com/7772278/170361195-599e097f-bdad-4203-b1b7-2abdb63f8e40.PNG">
 
 # Mistake #1: Non-convincing "Tell me about yourself"
 When we start a job interview, first, the interviewer will ask you, "Tell me about yourself." Most people just tell their name, where they studied, and so on. But it's a complete mistake if you only tell your name and where you studied. You should tell it in a way so that it matches with the job description. You should tell about yourself in a way so that the interviewer will think, "This is the right match for us. We're looking for this candidate".
@@ -54,7 +55,8 @@ I would have needed more time to make the software more scalable so that hundred
 If they could find users of the product, we could come back later and ask to make it more scalable. **That's why we added enough quality and made a fast prototype to go fast into the market**. That's why the solution was like that." 
 All I mean is you should tell your thinking pattern and why you chose that solution. 
 
-So these are the five mistakes. Don't make these mistakes during the interview. 
+**So these are the five mistakes. Don't make these mistakes during the interview.** 
+
 -----------
 If you enjoyed this blog, then you will also like my course. 
 
