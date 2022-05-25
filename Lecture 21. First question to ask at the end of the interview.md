@@ -33,6 +33,7 @@ Then I tell the solution approach. For example, we scooped out some features whi
  After that, we had the necessary knowledge and talked to the customer about scoping out some features. In this way, we solved the problem. 
 
 **How do I show my teamwork skill?**
+
 If the interviewer says that teamwork is very important, I will tell them I work with different people from different countries and work with different teams. For example, I work with the development team. I work with the finance team. I work with the management team. I communicate with them, and my teamwork is outstanding. I help them, and I ask them whenever there is a problem. My communication is good, and I'm an excellent team player. I keep my doors open to help others so that the project goes well and people can solve their problems faster. 
 
 Those were some examples of my past experience. So from your experience, you should prepare some events which you can tell to show that you have these qualities. 
