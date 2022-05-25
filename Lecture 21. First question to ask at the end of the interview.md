@@ -9,6 +9,7 @@ Let's look at some example questions you can ask at the end of the interview.
 **The 1st question I ask usually is:**
 
 ## "Which skills or qualities are important for this role?"
+<img width="507" alt="21 q1" src="https://user-images.githubusercontent.com/7772278/170346837-00d40770-0afb-4eb3-a1e6-42f83d07e621.PNG">
 
 ### The benefits of this question 
 I can show that I have the required qualities. 
