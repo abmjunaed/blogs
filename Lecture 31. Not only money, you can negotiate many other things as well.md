@@ -4,7 +4,9 @@ From the course:
 
 **Not only money, but you can negotiate many other things as well.**
 
-Sometimes, the company might not want to spend more money, but they can provide additional benefits because they have to give you some cash if they increase the salary. Sometimes, they don't want to give the money because they have some budget limitations and so on. They can give you some other benefits. 
+Sometimes, the company might not want to give you a higher salary, because paying a higher salary means giving more cash, and spending more cash might be a problem if the company has some budget limit.
+
+**But, they can provide you with some additional benefits which won't cost them cash!**
 
 
 ## Below are some ideas:
