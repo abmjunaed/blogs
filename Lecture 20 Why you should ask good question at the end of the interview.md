@@ -2,7 +2,7 @@ From the course:
 
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
-# You should ask good question at the end of the interview
+# Why you should ask good questions at the end of the interview
 
 **At the end of the interview, the interviewer will ask you, "Do you have any questions for us?" Unfortunately, many people just say that "No, I don't have any question," or they ask some very trivial one or two questions, but that's not good. You should have some questions prepared.** 
 
