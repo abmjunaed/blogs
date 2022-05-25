@@ -1,8 +1,14 @@
+From the course:
+
+**[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
+
 **Not only money, but you can negotiate many other things as well.**
 
 Sometimes, the company might not want to spend more money, but they can provide additional benefits because they have to give you some cash if they increase the salary. Sometimes, they don't want to give the money because they have some budget limitations and so on. They can give you some other benefits. 
 
+
 ## Below are some ideas:
+<img width="960" alt="31 negoPNG" src="https://user-images.githubusercontent.com/7772278/170357701-7f61ca46-ebaf-46f8-a92c-c722783c4bbb.PNG">
 
 #### More vacation days
 For example, they can give you more vacation days. For example, the job offers you 15 vacation days a year, but you can tell them, "If you can't increase the salary, can we work on the holidays or the vacations? Can I have five more days of vacation?" 
@@ -39,3 +45,11 @@ Or, you can also tell them, "I have these four options. Can we work on these? Ma
 
 
 **The bottom line is it's not only about money. There are some other things you can negotiate and keep those in mind. **
+
+-----------
+If you enjoyed this blog, then you will also like my course. 
+
+Here is the link with a **coupon code**
+
+**Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework**
+https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139
