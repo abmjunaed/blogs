@@ -5,11 +5,12 @@ From the course:
 # First question to ask at the end of the interview
 
 Let's look at some example questions you can ask at the end of the interview. 
-_The 1st question I ask usually is:  _
 
-**"Which skills or qualities are important for this role?" **
+**The 1st question I ask usually is:**
 
-## The benefits of this question 
+## "Which skills or qualities are important for this role?"
+
+### The benefits of this question 
 I can show that I have the required qualities. 
 
 For example, if the interviewer answers that 
