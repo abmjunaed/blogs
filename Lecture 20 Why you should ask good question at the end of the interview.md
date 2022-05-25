@@ -1,3 +1,7 @@
+From the course:
+
+**[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
+
 # You should ask good question at the end of the interview
 
 **At the end of the interview, the interviewer will ask you, "Do you have any questions for us?" Unfortunately, many people just say that "No, I don't have any question," or they ask some very trivial one or two questions, but that's not good. You should have some questions prepared.** 
@@ -15,3 +19,12 @@ I'll show you which questions to ask them and answer in a way so that you can pr
 **3. To decide if you want to join this company if you get an offer!**
 
 Another thing is, if you get a job offer from this company, you have to decide whether you will join this company or not. Is it a good match for your career path? You also have to get a lot more information about themselves. You should ask a couple of questions to understand: does this company match your career plan or not? I'll show you which questions to ask in my course in detail.
+
+-----------
+
+If you enjoyed this blog, then you will also like my course. 
+
+Here is the link with a **coupon code**
+
+**Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework**
+https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139
