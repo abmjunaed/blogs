@@ -1,8 +1,11 @@
+# How to answer behavioral questions using- STAR-AR method
+
 From the course:
 
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
+<img width="960" alt="41 42 STAR" src="https://user-images.githubusercontent.com/7772278/170473655-6d4c3923-a0fc-4939-a87c-20c988c7e046.PNG">
 
-# How to identify behavioral questions
+## How to identify behavioral questions
 Now, let us see how we can identify the behavioral questions. 
 
 Usually, behavioral questions start with phrases like 
@@ -20,21 +23,21 @@ because they try to understand how you behave in certain situations.
 How do you use your knowledge under certain situations and so on?
 ``` 
 
-# How to answer behavioral questions?
+## How to answer behavioral questions?
 There's a method or framework you can use to answer behavioral questions. It's called Star: **ST-AR/AR**. What does it mean?
 
-## ST - Situation, Task 
+### ST - Situation, Task 
 S means the `situation`. What was the situation? When, where, and what? In my course, we'll see an example in detail to help you understand it more clearly. But here, we are just trying to understand from the top level.
 
 Then comes T. T means `task`. What was the task? What was your responsibility? 
 
-## A - Action
+### A - Action
 Then comes A. A is for action. What action did you take? 
 
-## R - Result
+### R - Result
 Then comes R. R means result. What was the result? What was the outcome? Can you include any data to support your claim? 
 
-## A - Alternative action
+### A - Alternative action
  The second A in the framework means alternative action. You have already taken action. You saved that one. What alternative could you have done there? 
 ## R - Alternative result
 Finally, the second R in the framework means alternative results. What would have been the result of this alternative action? 
