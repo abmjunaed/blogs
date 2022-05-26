@@ -1,5 +1,5 @@
 
-"How to do well in a Job Interview": Junaed's Powerful Framework
+# "How to do well in a Job Interview": Junaed's Powerful Framework
 
 From the course:
 
@@ -20,7 +20,7 @@ When you go to an interview, the interviewer will first ask you, "Please **tell 
 
 Many people just mention their name, where they are coming from, and where they studied, only this kind of information. That's **wasting an opportunity!**
 
-When talking about yourself in a job interview, **you should create an impression that you are the perfect match for this position**. You should tell it so that the interviewer understands that you are the best person for this job and an ideal match. So the interviewer will think that you will do an excellent job if you are hired!
+You should tell about yourself in a way so that the interviewer understands that you are an ideal match for this job. 
 
 You should talk about yourself in a way that **matches the job requirement.** And you should also talk about **some other things which are not mentioned in the job description but add a lot of value**. I will share that with you. 
 
@@ -31,7 +31,7 @@ I'll share a framework or template with you in my course so that a senior or an 
 I will also share a template for the freshers. 
 
 ### Tips for freshers
-**A lot of time, freshers ask, “How can I tell about myself? I'm just a fresher. I don't have enough experience!
+**A lot of time, freshers ask, "What can I tell about myself in a job interview? I'm just a fresher. I don't have enough experience!"
 No worries.** I'll share a template for both freshers and more experienced people. In my [course](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139), you'll find those two templates. So follow my course. I will also show practical examples of how I tell them about myself, so you can also take ideas from that. 
 
 # 2. Discuss
