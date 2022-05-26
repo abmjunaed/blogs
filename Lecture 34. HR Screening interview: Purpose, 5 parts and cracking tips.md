@@ -48,11 +48,13 @@ The next step is that HR will describe the job to you.
  - Usually, the first question they will ask you is, **"Tell me about yourself."** In my other videos, I have shown how to tell about yourself, what mistakes to avoid, and templates for freshers and experienced. I have also shown how I tell about myself in detail in my course. Some people only tell their name and so on. That's a very big mistake. In short, you should tell me about yourself in a way so that HR understands that you are the perfect match for this position. So prepare well for telling me about yourself and see my other videos. 
 ### Some important questions:
 And then the next step will be some discussion, **on your skill and so on.** 
-  - **For experienced candidates**, one of the must questions is, **why do you want to leave your current company?** So get prepared for this. 
-    - Maybe you are looking for growth opportunities with more challenges. 
-    - Never blame your current company or blame your current colleagues.
-    - Don't tell that, the project is very bad. I don't like the project. I don't like those colleagues. Never, ever tell something like that. 
- - **And for freshers,** they will ask you, **"Tell me about a project or the most challenging problem you have solved in your university."** 
+#### For experienced candidates
+One of the must questions for the experienced candidates is, **why do you want to leave your current company?** So get prepared for this.
+    - **Maybe you are looking for growth opportunities with more challenges.** 
+    - **Never blame your current company or blame your current colleagues.**
+    - **Don't tell that,** the project is very bad. I don't like the project. I don't like those colleagues. Never, ever tell something like that. 
+#### For freshers
+One very important question for the fresher is: **"Tell me about a project or the most challenging problem you have solved in your university."** 
    - You should be prepared to tell one or two projects of your university and what challenges you have there. Some people think that, oh, in the university, I did some little projects, but it doesn't matter. The interviewer knows that you are a fresher. You are coming from the university, and you did some small projects. But **what did you learn from there?** 
 You can tell that, 
    - I learned how to find solutions. I searched a lot on the internet. I read a lot of solution approaches, and I found which one was the best. 
@@ -61,7 +63,7 @@ You can tell that,
    - I learned how to talk with clients (in my case my teacher gave the project, so he was my client) and take requirements." 
    - In real life, customers will give the requirement. In my reference, my teacher gave me requirements. 
     - "I brought new ideas to the project. I read a lot of books. I use these types of technologies". 
-    - Suppose you are being interviewed for marketing or sales or management; in that case, you can tell that I arranged this workshop and that workshop. I organized this seminar. I worked as a volunteer. A lot of things you can tell, and **tell the challenges you faced**. 
+Suppose you are being interviewed for marketing or sales or management; in that case, you can tell that, I arranged this workshop and that workshop. I organized this seminar. I worked as a volunteer. A lot of things you can tell, and **tell the challenges you faced**. 
       - E.g., it was not that easy to organize because the time was very short. But you learned how to manage deadlines and how to finish the task within the deadline. This example will help you during the interview because you will have a lot of time pressure with deadlines in real life. And that's also an excellent example of what you learned and some challenges you faced. 
 
 ### Salary expectation
@@ -83,6 +85,7 @@ Also show that you are a very quick learner. So you can also mention the univers
 Also show that you are an excellent problem solver. You can take extra steps to solve the problem of the business. You should also explain that you have a problem-solving attitude. 
 
 I hope these tips will help you. Have a nice day. 
+
 -----------
 If you enjoyed this blog, then you will also like my course. 
 
