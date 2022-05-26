@@ -40,26 +40,35 @@ Then the next thing is the phone or video call with HR as you have scheduled the
  - **Some important questions:** And then the next step will be some discussion, maybe on your skill and so on. 
   - **For experienced candidates**, one of the must questions is, **why do you want to leave your current company?** So get prepared for this. 
     - Maybe you are looking for growth opportunities with more challenges. 
-    - Never blame your current company or blame your current colleagues. Don't tell that, the project is very bad. I don't like the project. I don't like those colleagues. Never, ever tell something like that. 
- -And for freshers, they will ask you, "Tell me about a project or the most challenging problem you have solved in your university." 
-You should be prepared to tell one or two projects of your university and what challenges you have there. Some people think that, oh, in the university, I did some little projects, but it doesn't matter. The interviewer knows that you are a fresher. You are coming from the university, and you did some small projects. But what did you learn from there? You can tell that, "I learned how to find solutions. I searched a lot on the internet. I read a lot of solution approaches, and I found which one was the best. I learned how to work in a team. I learned how to give presentations. I learned how to talk with my teachers and take requirements." 
-In real life, customers will give the requirement. In my reference, my teacher gave me requirements. 
-"I brought new ideas to the project. I read a lot of books. I use these types of technologies". Suppose you are being interviewed for marketing or sales or management; in that case, you can tell that I arranged this workshop and that workshop. I organized this seminar. I worked as a volunteer. A lot of things you can tell, and tell the challenges you faced. E.g., it was not that easy to organize because the time was very short. But you learned how to manage deadlines and how to finish the task within the deadline. This example will help you during the interview because you will have a lot of time pressure with deadlines in real life. And that's also an excellent example of what you learned and some challenges you faced. 
-Salary expectation: Then they will ask about your expected salary. It's a tricky question, but why does HR ask this question? 
-They ask to understand if your salary range is within their budget. For example, suppose the budget is a maximum of 50k, and you are asking for 80k. In that case, HR will understand that there's no point in moving forward because that will cost both of your time. That's why sometimes HR asks for the salary range. 
-You can also ask what's the salary range for this job. If they tell you the salary range and it doesn't match your expectations, then moving to the next steps will waste your time. But, you can still want to move to the next steps if you have no other option in your hand, and you will get an experience of an interview. 
-But how do you answer if they ask about your salary expectation? My tip is, don't tell your expected salary. Don't give a fixed number. But suppose you already know their range, it is a famous company, and you searched on glassdoor, and you already know about their salary. You can tell that, the standard salary you offer is okay for me. I searched in the glassdoor for the ranges of payment. Or maybe some friends are working there, and you can tell that, Hey, I searched on the internet, and I found the salary range that works for me. But if you don't know, you can ask, "What is your salary range?" Most of the time, they will tell you their salary range. 
-But sometimes they don't tell you their salary range and they put pressure on you. They say, you tell us how much you expect. Our salary range varies a lot, blah, blah. If they give that kind of pressure, then you provide a range. The tip is don't give an exact digit during the phone screening. Give the range that my expectation is 50k to 80k. Give a big range so that at the end of the interview, if you like the company, and if they want to hire you, then you can have the possibility to negotiate. So don't give a fixed digit. Give a range for the salary. 
+    - Never blame your current company or blame your current colleagues.
+    - Don't tell that, the project is very bad. I don't like the project. I don't like those colleagues. Never, ever tell something like that. 
+ -**And for freshers,** they will ask you, **"Tell me about a project or the most challenging problem you have solved in your university."** 
+   - You should be prepared to tell one or two projects of your university and what challenges you have there. Some people think that, oh, in the university, I did some little projects, but it doesn't matter. The interviewer knows that you are a fresher. You are coming from the university, and you did some small projects. But **what did you learn from there?** 
+You can tell that, 
+   - I learned how to find solutions. I searched a lot on the internet. I read a lot of solution approaches, and I found which one was the best. 
+   - I learned how to work in a team. 
+   - I learned how to give presentations in front of others. 
+   - I learned how to talk with clients (in my case my teacher gave the project, so he was my client) and take requirements." 
+   - In real life, customers will give the requirement. In my reference, my teacher gave me requirements. 
+    - "I brought new ideas to the project. I read a lot of books. I use these types of technologies". 
+    - Suppose you are being interviewed for marketing or sales or management; in that case, you can tell that I arranged this workshop and that workshop. I organized this seminar. I worked as a volunteer. A lot of things you can tell, and **tell the challenges you faced**. 
+      - E.g., it was not that easy to organize because the time was very short. But you learned how to manage deadlines and how to finish the task within the deadline. This example will help you during the interview because you will have a lot of time pressure with deadlines in real life. And that's also an excellent example of what you learned and some challenges you faced. 
 
-More tips for the HR Screening interview
+**4. Salary expectation:** Then they will ask about your expected salary. It's a tricky question, but **why does HR ask this question?** 
+- They ask to understand if your salary range is within their budget. For example, suppose the budget is a maximum of 50k, and you are asking for 80k. In that case, HR will understand that there's no point in moving forward because that will cost both of your time. That's why sometimes HR asks for the salary range. 
+- **You can also ask what's the salary range for this job. If they tell you the salary range** and it doesn't match your expectations, then moving to the next steps will waste your time. But, you can still want to move to the next steps if you have no other option in your hand, and you will get an experience of an interview. 
+- **But how do you answer if they ask about your salary expectation?** My tip is, don't tell your expected salary. Don't give a fixed number. But suppose you already know their range, it is a famous company, and you searched on glassdoor, and you already know about their salary. You can tell that, the standard salary you offer is okay for me. I searched in the glassdoor for the ranges of payment. Or maybe some friends are working there, and you can tell that, Hey, I searched on the internet, and I found the salary range that works for me. But if you don't know, you can ask, "What is your salary range?" Most of the time, they will tell you their salary range. 
+- But sometimes they don't tell you their salary range and they put pressure on you. They say, you tell us how much you expect. Our salary range varies a lot, blah, blah. If they give that kind of pressure, then you provide a range. **The tip is don't give an exact digit during the phone screening. Give the range that my expectation is 50k to 80k.** **Give a big range** so that at the end of the interview, if you like the company, and if they want to hire you, then you can have the possibility to negotiate. **So don't give a fixed digit at this early stage.** Give a range for the salary. 
+
+### More tips for the HR Screening interview
 Now we will see some more tips for the screening interview. 
-Highly Motivated!
+#### Highly Motivated!
 Throughout the screening interview, show that you are highly motivated. Your voice tone matters. Talk with a voice tone that sounds very motivating. And also, throughout the interview, mention that you are very excited to work for this company. You are very excited to work on this project. It sounds like a very challenging project, and you are very motivated. 
-Team player.
+#### Team player.
 Also, tell them that you are an excellent team player. You can tell that you worked with many people in the university, and you bonded with some team working there, or you're currently working with many people. You are a pretty good team player. You help people. You help colleagues, and you communicate with colleagues exceptionally well. 
-Quick learner
+#### Quick learner
 Also show that you are a very quick learner. So you can also mention the university. If you're a fresher, you can tell that you learned a lot of things in a very short time in the university because you've had a lot of coursework. You had a lot of projects, and in a very short time, you had to deliver a lot of things, the exams, the projects, and so on, and some may be volunteer activities. And you know how to tackle that. And you are a very quick learner. In your job, if you're working now, you can also tell that you learn very quickly. You have learned different technologies and things, and you can learn very quickly. 
- Problem solver
+#### Problem solver
 Also show that you are an excellent problem solver. You can take extra steps to solve the problem of the business. You should also explain that you have a problem-solving attitude. 
 
 I hope these tips will help you. Have a nice day. 
