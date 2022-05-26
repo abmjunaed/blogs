@@ -27,14 +27,14 @@ And they will also try to see **if you're motivated well-enough for this company
 At first, the HR will email or call you to schedule an interview date. 
 - They will give you some probable dates in the email or on the phone. 
   - What I do is I try to accept the earliest possible date because in that case, I can start the interview much quicker. I'm in the pipeline much quicker, and I can get the feedback quicker. I always try to take the earliest possible date. But if you think that it's a challenging recording interview and you need some time in that case, try to take it later. Otherwise, I will try to take the earliest date possible. 
-- Then another important tip is always to keep your phone open. 
-  - If you are outside of the country, you may also consider enabling your roaming. Why? I have a friend who applied for a job in Germany. Then he went to the USA for some vacation trips. Fortunately, he turned on his roaming at that time, and he got a call from HR, where he applied for a job before going on vacation. So that's very handy because if you turn off your phone or if you are roaming outside of the country and there's no roaming turned on, what will happen? HR will try to reach you, and they will fail. So always try to be available. 
+- Then another important tip is, **always keep your phone open.** 
+  - If you are outside of the country, you may also consider **enabling your roaming**. Why? I have a friend who applied for a job in Germany. Then he went to the USA for some vacation trips. Fortunately, he turned on his roaming at that time, and he got a call from HR, where he applied for a job before going on vacation. So that's very handy because if you turn off your phone or if you are roaming outside of the country and there's no roaming turned on, what will happen? HR will try to reach you, and they will fail. So always try to be available. 
 - And the last tip here is that when you receive a phone call, **talk politely**.
   -  Some people just receive the call, and they talk very harshly. They say, "Hey! Hello, who are you?" Don't talk like that. Talk very politely. You can tell your name at first, e.g. `Hello, I'm Junaed speaking, and just wait, and they will tell you who they are.` So speak politely with a soft, nice voice. 
 
 ### Phone/ Video call with HR
 Then the next thing is the phone or video call with HR as you have scheduled the date. Now they will call you. It can be a Skype call, or it could be a phone call. 
- - **Dress-up:** So the first question comes: how should you dress if it is a video call? 
+ - **Dress-up:** The first question comes in mind, how should you dress if it is a video call? 
    - So the dress-up depends on the **position, the country, the company culture** you are being interviewed for. 
     - I'm a software engineer. I wear a very casual dress. In the winter, I wear only hoodies. I wear only a shirt in the summertime, maybe a white shirt or a blue collared shirt, but **no fancy multicolored dress.** 
     - If you're interviewing for a sales or marketing position, you might want to wear a cold or much nicer dress. 
