@@ -3,10 +3,22 @@ From the course:
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
 # How to identify behavioral questions
-Now, let us see how we can identify the behavioral questions. Usually, behavioral questions start with phrases like **"Tell me a situation when...", "Tell me when something happened...", "Tell me what you will have done in that situation".** 
-They'll ask you questions like that. But in my opinion, many technical or knowledge-based questions are behavioral questions. 
-For example, what did you do in that project? What did you learn from the project? Do you know about this technology? All these look like technical questions. 
-These are technical questions. In my opinion, these are also behavioral questions because they try to understand how you behave in certain situations. How do you use your knowledge under certain situations and so on? 
+Now, let us see how we can identify the behavioral questions. 
+
+Usually, behavioral questions start with phrases like 
+- **"Tell me a situation when..."**, 
+- **"Tell me when something happened..."**, 
+- **"Tell me what you will have done in that situation".** 
+
+They'll ask you questions like that. 
+But in my opinion, many technical or knowledge-based questions are behavioral questions. 
+For example, _what did you do in that project? What did you learn from the project? Do you know about this technology?_ 
+```
+All these look like technical questions and these are technical questions.
+But in my opinion, these are also behavioral questions;
+because they try to understand how you behave in certain situations. 
+How do you use your knowledge under certain situations and so on?
+``` 
 
 # How to answer behavioral questions?
 There's a method or framework you can use to answer behavioral questions. It's called Star: **ST-AR/AR**. What does it mean?
