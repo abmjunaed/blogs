@@ -15,8 +15,8 @@ And they will also try to see **if you're motivated well-enough for this company
 
 ## Steps  of the HR screening interview
  Now, let's look at the steps of the HR screening interview. 
-1. HR emails/calls to schedule the interview date
-First, the HR will email or call you to schedule an interview date. 
+### HR emails/calls to schedule the interview date
+At first, the HR will email or call you to schedule an interview date. 
 - They will give you some probable dates in the email or on the phone. 
   - What I do is I try to accept the earliest possible date because in that case, I can start the interview much quicker. I'm in the pipeline much quicker, and I can get the feedback quicker. I always try to take the earliest possible date. But if you think that it's a challenging recording interview and you need some time in that case, try to take it later. Otherwise, I will try to take the earliest date possible. 
 - Then another important tip is always to keep your phone open. 
@@ -24,7 +24,7 @@ First, the HR will email or call you to schedule an interview date.
 - And the last tip here is that when you receive a phone call, **talk politely**.
   -  Some people just receive the call, and they talk very harshly. They say, "Hey! Hello, who are you?" Don't talk like that. Talk very politely. You can tell your name at first, e.g. `Hello, I'm Junaed speaking, and just wait, and they will tell you who they are.` So speak politely with a soft, nice voice. 
 
-2. Phone/ Video call with HR
+### Phone/ Video call with HR
 Then the next thing is the phone or video call with HR as you have scheduled the date. Now they will call you. It can be a Skype call, or it could be a phone call. 
  - **Dress-up:** So the first question comes: how should you dress if it is a video call? 
    - So the dress-up depends on the **position, the country, the company culture** you are being interviewed for. 
@@ -35,14 +35,16 @@ Then the next thing is the phone or video call with HR as you have scheduled the
 
   - **Duration:** The duration is usually 30 minutes, but it depends. Sometimes it goes longer; sometimes, it goes shorter.
   - And one more tip is **always to keep a pen and paper with you to take some notes because they will tell you about the team size and the working hours. And they might give some valuable information** you will need in the next step of the interview, e.g. **which skills are most important for this position, what type of candidate they are looking for, etc.** So keep a pen and paper with you and take some notes. And you can also write on your computer. It depends on you, but the main point is to take notes. 
-3. **HR describes the job:** he next step is that HR will describe the job to you.
+### HR describes the job: 
+The next step is that HR will describe the job to you.
  - Usually, the first question they will ask you is, **"Tell me about yourself."** In my other videos, I have shown how to tell about yourself, what mistakes to avoid, and templates for freshers and experienced. I have also shown how I tell about myself in detail in my course. Some people only tell their name and so on. That's a very big mistake. In short, you should tell me about yourself in a way so that HR understands that you are the perfect match for this position. So prepare well for telling me about yourself and see my other videos. 
- - **Some important questions:** And then the next step will be some discussion, maybe on your skill and so on. 
+### Some important questions:
+And then the next step will be some discussion, **on your skill and so on.** 
   - **For experienced candidates**, one of the must questions is, **why do you want to leave your current company?** So get prepared for this. 
     - Maybe you are looking for growth opportunities with more challenges. 
     - Never blame your current company or blame your current colleagues.
     - Don't tell that, the project is very bad. I don't like the project. I don't like those colleagues. Never, ever tell something like that. 
- -**And for freshers,** they will ask you, **"Tell me about a project or the most challenging problem you have solved in your university."** 
+ - **And for freshers,** they will ask you, **"Tell me about a project or the most challenging problem you have solved in your university."** 
    - You should be prepared to tell one or two projects of your university and what challenges you have there. Some people think that, oh, in the university, I did some little projects, but it doesn't matter. The interviewer knows that you are a fresher. You are coming from the university, and you did some small projects. But **what did you learn from there?** 
 You can tell that, 
    - I learned how to find solutions. I searched a lot on the internet. I read a lot of solution approaches, and I found which one was the best. 
@@ -54,7 +56,8 @@ You can tell that,
     - Suppose you are being interviewed for marketing or sales or management; in that case, you can tell that I arranged this workshop and that workshop. I organized this seminar. I worked as a volunteer. A lot of things you can tell, and **tell the challenges you faced**. 
       - E.g., it was not that easy to organize because the time was very short. But you learned how to manage deadlines and how to finish the task within the deadline. This example will help you during the interview because you will have a lot of time pressure with deadlines in real life. And that's also an excellent example of what you learned and some challenges you faced. 
 
-**4. Salary expectation:** Then they will ask about your expected salary. It's a tricky question, but **why does HR ask this question?** 
+### Salary expectation
+Then they will ask about your expected salary. It's a tricky question, but **why does HR ask this question?** 
 - They ask to understand if your salary range is within their budget. For example, suppose the budget is a maximum of 50k, and you are asking for 80k. In that case, HR will understand that there's no point in moving forward because that will cost both of your time. That's why sometimes HR asks for the salary range. 
 - **You can also ask what's the salary range for this job. If they tell you the salary range** and it doesn't match your expectations, then moving to the next steps will waste your time. But, you can still want to move to the next steps if you have no other option in your hand, and you will get an experience of an interview. 
 - **But how do you answer if they ask about your salary expectation?** My tip is, don't tell your expected salary. Don't give a fixed number. But suppose you already know their range, it is a famous company, and you searched on glassdoor, and you already know about their salary. You can tell that, the standard salary you offer is okay for me. I searched in the glassdoor for the ranges of payment. Or maybe some friends are working there, and you can tell that, Hey, I searched on the internet, and I found the salary range that works for me. But if you don't know, you can ask, "What is your salary range?" Most of the time, they will tell you their salary range. 
