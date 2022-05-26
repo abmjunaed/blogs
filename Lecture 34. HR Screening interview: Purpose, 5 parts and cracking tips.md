@@ -1,8 +1,15 @@
-# HR Screening interview: Purpose, 5 parts and cracking tips
+# HR Screening Interview: What to Expect and How to crack it
+
+From the course:
+
+**[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
+
+<img width="959" alt="34 hr" src="https://user-images.githubusercontent.com/7772278/170468060-f3a83a6c-3044-4611-99fd-6c445d3f400a.PNG">
 
 Today, we will see the HR screening interview: what to expect here and how to crack it. Let's get started. 
 
 ## Purpose of the HR screening interview
+
 First, let's look at the purpose of an HR screening interview. **It is about understanding if you are a good match for this company.** If you are not a very good match for this company and the company invites you to the next steps of the job interview, it will cost them more money and cost them more time. That's why HR takes a screening interview to understand if you are a good match for this company.
 
 **Are you a good cultural match** or a good cultural fit for this company? Where are you coming from? What's your background? Will you be able to work with the company and existing team members? Do you fit culturally? They will try to understand that part. 
@@ -75,3 +82,10 @@ Also show that you are a very quick learner. So you can also mention the univers
 Also show that you are an excellent problem solver. You can take extra steps to solve the problem of the business. You should also explain that you have a problem-solving attitude. 
 
 I hope these tips will help you. Have a nice day. 
+-----------
+If you enjoyed this blog, then you will also like my course. 
+
+Here is the link with a **coupon code**
+
+**Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework**
+https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139
