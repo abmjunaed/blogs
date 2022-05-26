@@ -16,7 +16,7 @@ The first step is to tell the interviewer about yourself.
 
 ### Key points
 
-When you go to an interview, the interviewer will first ask you, “Please **tell me about yourself, or, “please introduce yourself.” **
+When you go to an interview, the interviewer will first ask you, “Please **tell me about yourself, or, “please introduce yourself.”**
 
 Many people just mention their name, where they are coming from, and where they studied, only this kind of information. That's **wasting an opportunity!**
 
