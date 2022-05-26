@@ -4,7 +4,8 @@ From the course:
 
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
-<img width="959" alt="34 hr" src="https://user-images.githubusercontent.com/7772278/170468060-f3a83a6c-3044-4611-99fd-6c445d3f400a.PNG">
+<img width="960" alt="34 hr" src="https://user-images.githubusercontent.com/7772278/170468374-1dea7f52-5fc1-4417-b6c6-723f684fd9f9.PNG">
+
 
 Today, we will see the HR screening interview: what to expect here and how to crack it. Let's get started. 
 
