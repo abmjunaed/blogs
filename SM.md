@@ -25,7 +25,7 @@ I know that I did a lot, but I can't remember what exactly I did to solve a prob
 
 I know which technologies I use and what my role is, but if anyone asks me what exactly I did or goes into deep discussion, I will be in trouble because I can't remember many details!
 
-**I know a lot of you have the same problem.**
+**I know a lot of people have the same problem.**
 
 **That's why I follow this experience matrix;** it helps me to gather all the ideas, all the things I did, and all the skills I acquired in different dimensions, e.g. technical skills, soft skills, and domain knowledge.
 
@@ -35,4 +35,21 @@ Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powe
 <img width="960" alt="25 experience matrix" src="https://user-images.githubusercontent.com/7772278/170673991-ca080b2c-30e1-4168-8f89-56c37f347fa3.PNG">
 
 
+#
+## Tell Me About Yourself in a job interview: Mistakes to avoid and how to tell like an expert
+The 1st question in a job interview is: "Tell me about yourself."
+IMO, if you can tell about yourself very well, 50% of your job is done in the interview. You have set the tone, now can navigate the interview, and you will have high confidence and no nervousness. 
+
+Mistakes to avoid:
+However, many people make a big mistake; they just mention their name, where they are coming from, and where they studied, only this kind of information. That's wasting an opportunity!
+
+Show that you are a perfect match!
+When talking about yourself in a job interview, you should create an impression that you are the perfect match for this position. 
+You should strongly introduce yourself so that the interviewer understands that you are an ideal match for this job. And the interviewer will know that you will do an excellent job if you are hired!
+
+To know more, either read my blog or enroll in my course!
+Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139
+<img width="960" alt="28 tell me" src="https://user-images.githubusercontent.com/7772278/170711005-4519cf8c-ace2-423a-a47e-056da9f9f79b.PNG">
+
+<img width="960" alt="29 tell me" src="https://user-images.githubusercontent.com/7772278/170711009-8585b30c-cbfb-4017-a4ed-e34d9c05acc1.PNG">
 
