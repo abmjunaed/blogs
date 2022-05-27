@@ -79,9 +79,9 @@ Below is a template I encourage freshers to use:
 
 After you have figured out everything you want to tell to introduce yourself in a job interview, don't forget to practice it!
 Here is my 3 step guideline:
-•1. Create your template and fill it out. (You can find a template for both freshers and experienced candidates in my course)
-•2. Rehearse and record in your camera.
-•3. Watch the video, find the mistakes and do it again.
+1. Create your template and fill it out. (You can find a template for both freshers and experienced candidates in my course)
+2. Rehearse and record in your camera.
+3. Watch the video, find the mistakes and do it again.
 <img width="960" alt="35 tips prepare tell" src="https://user-images.githubusercontent.com/7772278/170785427-d8c9e13b-416f-4623-ab39-ba8c1ed0dc71.PNG">
 
 #freshers #experienced #interviewtips #interviewprep #jobinterviewtips #skills #interview #jobinterview #interviewskills #jobinterviewprep #jobinterviewskills #job #experience #productivity #productive
