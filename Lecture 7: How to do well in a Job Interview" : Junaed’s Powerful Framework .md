@@ -5,7 +5,8 @@ From the course:
 
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
-<img width="960" alt="1  framework" src="https://user-images.githubusercontent.com/7772278/169669192-5e613c88-5291-44cd-8b69-97a12790383a.PNG">
+<img width="960" alt="22 infographic" src="https://user-images.githubusercontent.com/7772278/170647013-f12dce98-4d7c-4f11-8fa6-6d340a6075cd.PNG">
+
 
 Today, I will share my framework, Junaed's framework, regarding how to do well in a job interview. 
 I'm Junaed, working as a senior cloud software engineer. 
@@ -91,6 +92,7 @@ So, how can you show your motivation? I'll cover that in detail in my course.
 
 As I said before, here, I'm covering only the framework. I'm not going into too much detail. But in my [course](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139), I'll discuss all the points in much more detail. I hope to see you there. Have a nice day.
 
+# 5. Show your confidence
 -----------
 If you enjoyed this blog, then you will also like my course. 
 
