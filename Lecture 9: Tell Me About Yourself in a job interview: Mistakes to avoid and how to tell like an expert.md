@@ -5,22 +5,25 @@ From the course:
 **[Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powerful framework](https://www.udemy.com/course/ultimate-job-interview-masterclass/?couponCode=47386706EC67C0D55139)**
 
 
- **Remember that the interview is your self-marketing. You have to convince the interviewer that you are the perfect match for this position; you can deliver what these jobs need.**
+ **Remember that the interview is your self-marketing. You have to convince the interviewer that you are the perfect match for this position; you can deliver what they need.**
  
  <img width="960" alt="9 tell me about urself" src="https://user-images.githubusercontent.com/7772278/170095400-814f0f79-1b03-48ad-a876-73438f5c8a74.PNG">
 
 <img width="960" alt="9-2tell me about urself" src="https://user-images.githubusercontent.com/7772278/170095465-9d8363a1-a409-4269-b3fe-97fa1d032e32.PNG">
 
+
 ## What you should cover during the tell about yourself part
-When you go to an interview, the interviewer will first ask you, "Please tell me about yourself, or, "please introduce yourself."
+The 1st question in a job interview is: "Tell me about yourself."
+IMO, if you can tell about yourself very well, 50% of your job is done in the interview. You have set the tone, now can navigate the interview, and you will have high confidence and no nervousness. 
 
 
 ## Mistakes to avoid:
 
-**Many people just mention their name, where they are coming from, and where they studied, only this kind of information. That's wasting an opportunity!**
+**However, many people make a big mistake; they just mention their name, where they are coming from, and where they studied, only this kind of information. That's wasting an opportunity!**
 
 ## Show that you are a perfect match!
-When talking about yourself in a job interview, you should create an impression that you are the perfect match for this position. **You should tell in a way so that the interviewer understands that you are the best person for this job and an ideal match.** So the interviewer will think that you will do an excellent job if you are hired!
+When talking about yourself in a job interview, you should create an impression that you are the perfect match for this position. 
+**You should strongly introduce yourself so that the interviewer understands that you are an ideal match for this job.** And the interviewer will know that you will do an excellent job if you are hired!
 
 **Focus on the following points**
 - You should talk about yourself in a way that matches the job requirement. 
