@@ -19,7 +19,7 @@ Then throughout the interview:
 <img width="959" alt="24 Preparation" src="https://user-images.githubusercontent.com/7772278/170672148-bf608890-9a94-4c23-838b-36b032a7d0db.PNG">
 
 #
-The day before an interview, I wondered what I should say regarding my project works!
+A day before a job interview, I wondered what I should say regarding my project works!
 
 I know that I did a lot, but I can't remember what exactly I did to solve a problem 1 year ago!
 
@@ -40,10 +40,10 @@ Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powe
 The 1st question in a job interview is: "Tell me about yourself."
 IMO, if you can tell about yourself very well, 50% of your job is done in the interview. You have set the tone, now can navigate the interview, and you will have high confidence and no nervousness. 
 
-Mistakes to avoid:
+### Mistakes to avoid:
 However, many people make a big mistake; they just mention their name, where they are coming from, and where they studied, only this kind of information. That's wasting an opportunity!
 
-Show that you are a perfect match!
+### Show that you are a perfect match!
 When talking about yourself in a job interview, you should create an impression that you are the perfect match for this position. 
 You should strongly introduce yourself so that the interviewer understands that you are an ideal match for this job. And the interviewer will know that you will do an excellent job if you are hired!
 
@@ -53,3 +53,23 @@ Ultimate Job Interview Masterclass: Secret sauce, Practical guideline and a Powe
 
 <img width="960" alt="29 tell me" src="https://user-images.githubusercontent.com/7772278/170711009-8585b30c-cbfb-4017-a4ed-e34d9c05acc1.PNG">
 
+#
+Many people wanted to know how I tell about myself in a job interview.
+After I pointed out some mistakes people make while telling about themselves and how they are wasting an opportunity, it created awareness. That's good : )
+I have also given some tips regarding what to tell about yourself in my blog and my course.
+
+In my course, I have created a video explaining how do I tell about myself.
+
+I have also created 2 templates that are ready to use.
+One template is for the freshers; another is for the people with more experience (for both mid-level and experienced candidates).
+You can simply download the template from my course and prepare your "Tell me about yourself."
+Remember, IMO, 50% of your job is done in the interview if you can tell about yourself very well.
+
+#
+Freshers asked me how they can tell about themselves in a job interview, as they don't have industry experience!
+No worries! Today I will show how freshers can tell about themselves in a job interview.
+When I was a fresher, I didn't know how to tell about myself in the right way and wasted a lot of opportunities! I only used to tell my name, where I come from, my university, etc. 
+But, You should strongly introduce yourself so that the interviewer understands that you are an ideal match for this job. 
+
+Below is a template I encourage freshers to use:
+<img width="960" alt="34 freshers tell me" src="https://user-images.githubusercontent.com/7772278/170784538-04acaa0a-9fe7-4ecc-8142-c5afcfbf84b0.PNG">
