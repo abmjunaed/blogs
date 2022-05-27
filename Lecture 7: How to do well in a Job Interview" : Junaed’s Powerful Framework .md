@@ -81,6 +81,8 @@ I'll show you which questions to ask them and answer in a way so that you can pr
 
 Another thing is, if you get a job offer from this company, you have to decide whether you will join this company or not. Is it a good match for your career path? You also have to get a lot more information about themselves. You should ask a couple of questions to understand: does this company match your career plan or not? I'll show you which questions to ask in my course in detail. 
 
+In my course, I have discussed in detail which questions to ask and how to respond after asking those questions.
+
 # 4. Show your motivation
 The last part is motivation. You have to show that you are highly motivated for this company or the project or the challenges they're facing because if you are not motivated, that means if you join the company, you might leave very soon. The company wants someone motivated to solve these challenges and problems and motivated for this position or the company. So you have to show that you are motivated. 
 
