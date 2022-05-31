@@ -1,5 +1,5 @@
 # 
-These are the 5 parts of my Framework to "Ace a Job Interview".
+These are the 𝟓 𝐩𝐚𝐫𝐭𝐬 𝐢𝐧 𝐦𝐲 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐭𝐨 "𝐀𝐜𝐞 𝐚 𝐉𝐨𝐛 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰".
 I have written a blog explaining these steps, link in the comment.
 <img width="960" alt="22 infographic" src="https://user-images.githubusercontent.com/7772278/170671352-711306a4-1b58-4baf-814f-dec92c0ba710.PNG">
 
