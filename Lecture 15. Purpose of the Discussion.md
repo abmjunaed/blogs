@@ -1,7 +1,8 @@
 # How to interview your interviewer and Purpose of the Discussion in a Job Interview a
-One stage of Junaed's powerful framework for job interviews was "Discussion". Today, we will see the purpose of the discussion. 
+One stage of Junaed's powerful framework for job interviews was "Discussion". Today, we will see the purposes of the discussion. 
 Let's start. 
 
+## Purposes of the discussion
 ### To know which skills are really important
 The first purpose is to know which skills are really important for this job. Because sometimes, the job description is really vague. Sometimes, the job description mentions a lot of skills, and during the interview, you can't focus on all the skills they mentioned. 
 So first, you need to know which skills are really important so that you can focus on those skills and show that you have those skills through discussion. 
