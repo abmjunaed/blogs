@@ -84,5 +84,7 @@ Here is my 3 step guideline:
 3. Watch the video, find the mistakes and do it again.
 <img width="960" alt="35 tips prepare tell" src="https://user-images.githubusercontent.com/7772278/170785427-d8c9e13b-416f-4623-ab39-ba8c1ed0dc71.PNG">
 
+
+
 #freshers #experienced #interviewtips #interviewprep #jobinterviewtips #skills #interview #jobinterview #interviewskills #jobinterviewprep #jobinterviewskills #job #experience #productivity #productive
 #tellmeaboutyourself #introduceyourself #confidence
