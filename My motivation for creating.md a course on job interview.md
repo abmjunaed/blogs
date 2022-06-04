@@ -1,9 +1,11 @@
-My motivation for creating a course on job interview: **to empower you** _so that you don't make the same mistakes I did and you don't get frustrated like me._
+## My motivation for creating a course on job interview.md
+
+**To empower you, so that you don't make the same mistakes I did and you don't get frustrated like me.**
 
 **I failed many job interviews, although I had all the required qualifications.**
 I became very frustrated and clueless!  
 
-**I know this resonates with a lot of you. **
+**I know this resonates with a lot of you.**
 
 Afterward, I thought a lot and investigated what the problems were.
 I figured out that many things are very important during a job interview on top of your skill set and qualifications.
